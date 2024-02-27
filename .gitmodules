@@ -1,3 +1,0 @@
-[submodule "src/tof_interface"]
-	path = src/tof_interface
-	url = git@github.com:COBOT-Team/tof-interface.git
