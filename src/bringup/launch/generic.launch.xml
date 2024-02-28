@@ -1,6 +1,6 @@
 <launch>
-  <node pkg="tof_interface" exec="tof_interface" name="generic_tof_interface" namespace="generic_cobot">
+  <node pkg="tof_interface" exec="tof_interface" name="cobot0_tof_interface" namespace="cobot0">
     <param name="fps" value="30.0" />
-    <param name="frame_id" value="generic_cobot/tof_camera" />
+    <param name="frame_id" value="cobot0/tof_camera" />
   </node>
 </launch>
